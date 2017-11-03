@@ -1,31 +1,16 @@
 [
   {
-     "name": "Kawsar Ahmed",
+    "name": "Kawsar Ahmed",
     "admit_year": "2014",
     "batch" : "BIT 36",
     "email": "prokawsar@gmail.com",
     "phone": "01915983757",
-    "role": "Developer",
-    "city": "Amsterdam, Netherlands",
-    "company_institute": "Saxum",
-    
-     "working_in": "JavaScript, CSS",
-     "github": "prokawsar",
-     "facebook": "fkawsar"
-   },
-   {
-     "name": "Omran Jamal",
-    "admit_year": "2016",
-    "batch" : "BIT 36",
-    "email": "omran@gmail.com",
-    "phone": "01859683787",
     "role": "Student",
-    "city": "Amsterdam, Netherlands",
-    "company_institute": "Saxum",
-     
-     "working_in": "JavaScript, CSS",
-     "github": "",
-    "facebook": "Omran.Jamal"
+    "city": "Dhaka, Bangladesh",
+    "company_institute": "Daffodil Int. Academy",
+    "working_in": "JavaScript, Node.js, Laravel",
+    "github": "prokawsar",
+    "facebook": "fkawsar"
    }
-  
+
   ]
