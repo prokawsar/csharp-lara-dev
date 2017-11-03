@@ -85,7 +85,13 @@ class App extends Component {
             className="search"
           />
         </div>
-
+        <div className="button">
+          <div className="dev ">
+            <div className="dev-desc">
+              <a href="https://github.com/prokawsar/dia-students" target="_blank">Add_Me</a>
+            </div>
+          </div>
+        </div>
         <div>
           {this.state.isLoading ?
             <div className="center">
