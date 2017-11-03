@@ -5,11 +5,11 @@
     "batch" : "BIT 36",
     "email": "prokawsar@gmail.com",
     "phone": "01915983757",
-    "role": "Developer",
-    "city": "Amsterdam, Netherlands",
-    "company_institute": "Saxum",
+    "role": "Student",
+    "city": "Dhaka, Bangladesh",
+    "company_institute": "Daffodil International Academy",
     
-     "working_in": "JavaScript, CSS",
+     "working_in": "JavaScript, Node.js, Laravel",
      "github": "prokawsar",
      "facebook": "fkawsar"
    }
