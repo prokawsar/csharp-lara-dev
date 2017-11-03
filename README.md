@@ -4,7 +4,13 @@ Its a simple app to see students information and stay together.
 ### How to add yourself :arrow_right:
 
 You must to have a github account to add yourself in list. 
-To add, just edit `personals.json` file add block like this given below, and make a pull request (PR).
+
+To add a personal
+
+-> login in your account 
+-> edit `personals.json` file 
+-> add a block like this given below
+-> make a pull request (PR).
 
 
 Here is an Example:
