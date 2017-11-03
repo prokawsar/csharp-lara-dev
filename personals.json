@@ -1,17 +1,16 @@
 [
   {
-     "name": "Kawsar Ahmed",
+    "name": "Kawsar Ahmed",
     "admit_year": "2014",
     "batch" : "BIT 36",
     "email": "prokawsar@gmail.com",
     "phone": "01915983757",
     "role": "Student",
     "city": "Dhaka, Bangladesh",
-    "company_institute": "Daffodil International Academy",
-    
-     "working_in": "JavaScript, Node.js, Laravel",
-     "github": "prokawsar",
-     "facebook": "fkawsar"
+    "company_institute": "Daffodil Int. Academy",
+    "working_in": "JavaScript, Node.js, Laravel",
+    "github": "prokawsar",
+    "facebook": "fkawsar"
    }
 
   ]
