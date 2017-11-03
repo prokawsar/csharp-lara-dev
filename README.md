@@ -25,10 +25,10 @@ Here is an Example:
    }
 
 ```
-For Github and Facebook just add your `username` not full url. Make sure your details object inside the `]` second bracket. 
--------
-*Its your choice to give your phone number, email and facebook.*
--------
+>For Github and Facebook just add your `username` not full url. Make sure your details object inside the `]` second bracket. 
+
+**Its your choice to give your phone number, email and facebook.**
+
 Always appreciate your contribution :smiley: :thumbsup:
 
 Hope you will LIKE it !!!
