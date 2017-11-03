@@ -1,7 +1,7 @@
-## Welcome to DIA Alumni and Students Place
+## Welcome to DIA:mortar_board: Alumni and Students Place:family:
 Its a simple app to see students information and stay together.
 
-### How to add yourself
+### How to add yourself :arrow_right:
 
 You must to have a github account to add yourself in list. 
 To add, just edit `personals.json` file add block like this given below, and make a pull request (PR).
@@ -25,8 +25,10 @@ Here is an Example:
    }
 
 ```
-For Github and Facebook just add your `username` not full url.
+For Github and Facebook just add your `username` not full url. Make sure your details object inside the `]` second bracket. 
 
-*It your choise to give your phone number, email, facebook.*
+*Its your choice to give your phone number, email and facebook.*
+
+Always appreciate your contribution :simple_smile:
 
 Hope you will LIKE it !!!
