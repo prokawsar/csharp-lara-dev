@@ -7,10 +7,10 @@ You must to have a github account to add yourself in list.
 
 To add a personal
 
--> login in your account 
--> edit `personals.json` file 
--> add a block like this given below
--> make a pull request (PR).
+- [x] -> login in your account 
+- [x] -> edit `personals.json` file 
+- [x] -> add a block like this given below
+- [x] -> make a pull request (PR).
 
 
 Here is an Example:
