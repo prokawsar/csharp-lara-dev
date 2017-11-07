@@ -1,5 +1,4 @@
-## Welcome to DIA:mortar_board: Alumni and Students Place:family:
-Its a simple app to see students information and stay together.
+## Welcome to Laravel and ASP developer finding Place:family:
 
 ### How to add yourself :arrow_right:
 
@@ -17,17 +16,14 @@ Here is an Example:
 ```
 {
     "name": "Your Name",
-    "admit_year": "Year",
-    "batch" : "Batch",
     "email": "xxxx@zzzz.com",
     "phone": "Your Phone",
-    "role": "(Student/Developer/Software Engineer)",
+    "role": "(Web Developer/Software Engineer)",
     "city": "Dhaka, Bangladesh",
-    "company_institute": "(DIA/Compnay Name)", // not more than 22 character
-    
-     "working_in": "JavaScript, Node.js, Laravel", // your working areas
-     "github": "username",
-     "facebook": "username"
+    "company": "(Compnay Name)", // not more than 22 character
+    "working_in": "JavaScript, Node.js, Laravel", // your working areas
+    "github": "username",
+    "facebook": "username"
    }
 
 ```
