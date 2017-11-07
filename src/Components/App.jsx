@@ -24,7 +24,7 @@ class App extends Component {
 
   componentDidMount() {
     fetch(
-      'https://api.github.com/repos/prokawsar/dia-students/contents/personals.json'
+      'https://api.github.com/repos/prokawsar/laravel-csharp/contents/personals.json'
    
     )
    
@@ -74,8 +74,8 @@ class App extends Component {
           </svg>
         </a>
         <br />
-        <div className="hd1"> DIA Alumni and Students </div>
-        <div className="hd-small">Alumni and upcomming students of Unviersity of Greenwich from Bangladesh.</div>
+        <div className="hd1">Laravel and ASP.net developer from Dhaka, Bangladesh </div>
+        <div className="hd-small">Well experienced laravel and asp.net developer from Bangladesh.</div>
 
         <div className="search-div">
           <input
@@ -88,7 +88,7 @@ class App extends Component {
         <div className="button">
           <div className="dev ">
             <div className="dev-desc">
-              <a href="https://github.com/prokawsar/dia-students" target="_blank">Add_Me</a>
+              <a href="https://github.com/prokawsar/laravel-csharp" target="_blank">Add_Me</a>
             </div>
           </div>
         </div>
@@ -107,10 +107,8 @@ class App extends Component {
                       <div className="dev--name">{developer.name}</div>
                       <div className="dev--email"><a href={`mailto:${developer.email}`} target="_top">{developer.email}</a></div>
                       <div className="dev--city">Phone: {developer.phone}</div>
-                      <div className="dev--city">Admission Year: {developer.admit_year}</div>
-                      <div className="dev--city">Batch: {developer.batch}</div>
-                   
-                      <div className="dev--skills"><span>{developer.role} at {developer.company_institute}</span></div>
+                     
+                      <div className="dev--skills"><span>{developer.role} at {developer.company}</span></div>
                       <div className="dev--city">Working in: {developer.working_in}</div>
                       <div className="dev--city">{developer.city}</div>
                     </div>

@@ -1,7 +1,7 @@
 {
-  "name": "dia-students",
+  "name": "laravel-asp",
   "version": "1.0.0",
-  "description": "A curated list of DIA Alumni and Students. 🎓",
+  "description": "A curated list Laravel and ASP.net developer. 🎓",
   "scripts": {
     "build": "webpack",
     "start": "webpack-dev-server",
@@ -12,10 +12,10 @@
   "modifier": "Kawsar Ahmed <prokawsar@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/prokawsar/dia-students"
+    "url": "https://github.com/prokawsar/laravel-csharp"
   },
-  "homepage": "http://prokawsar.github.io/dia-students",
-  "license": "ISC",
+  "homepage": "http://prokawsar.github.io/laravel-csharp",
+  "license": "MIT",
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
