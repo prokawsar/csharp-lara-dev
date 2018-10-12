@@ -1,11 +1,11 @@
 {
-  "name": "laravel-asp",
+  "name": "laravel-js",
   "version": "1.0.0",
-  "description": "A curated list Laravel and ASP.net developer. 🎓",
+  "description": "A curated list Laravel and Javascript developer. 🎓",
   "scripts": {
     "build": "webpack",
     "start": "webpack-dev-server",
-    "deploy" : "npm run build&&gh-pages -d build"
+    "deploy": "npm run build&&gh-pages -d build"
   },
   "keywords": [],
   "author": "shreyas-a",
