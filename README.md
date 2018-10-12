@@ -1,4 +1,4 @@
-## Welcome to Laravel and ASP developer finding Place:family:
+## Welcome to Laravel and JavaScript developer finding Place:family:
 
 ### How to add yourself :arrow_right:
 
