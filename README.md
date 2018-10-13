@@ -27,7 +27,7 @@ Here is an Example:
    }
 
 ```
->For Github and Facebook just add your `username` not full url. Make sure your details object inside the `]` second bracket. 
+>For Github and Facebook just add your `username` not full url. Make sure your details object inside the `]` second bracket and add coma `,` in last object end. 
 
 **Its your choice to give your phone number, email and facebook.**
 
