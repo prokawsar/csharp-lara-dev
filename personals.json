@@ -1,5 +1,17 @@
 [
   {
+    "name": "Kawsar Ahmed",
+    "email": "prokawsar@gmail.com",
+    "phone": "01915983757",
+    "role": "Student",
+    "city": "Dhaka, Bangladesh",
+    "company": "Daffodil Int. Academy",
+    "working_in": "JavaScript, Node.js, Laravel",
+    "github": "prokawsar",
+    "facebook": "fkawsar"
+   }
+  
+  {
     "name": "Vritika Singla",
     "email": "vritikabnl242@gmail.com",
     "phone": "0123456789",
