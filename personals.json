@@ -21,6 +21,18 @@
     "working_in": "JavaScript, Node.js",
     "github": "vritika1310",
     "facebook": "None"
+   },
+  
+    {
+    "name": "Mark Grichanik",
+    "email": "markgrichanik@gmail.com",
+    "phone": "526451755",
+    "role": "Software developer",
+    "city": "Beer-Sheva",
+    "company": "Dell",
+    "working_in": "JavaScript, Angular",
+    "github": "markgrichanik",
+    "facebook": "None"
    }
 
   ]
