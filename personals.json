@@ -53,5 +53,16 @@
     "working_in": "PHP, Laravel",
     "github": "shadhin-msa",
     "facebook": "Shadhin.MSA"
+  },
+  {
+    "name": "Mosharof Hossain",
+    "email": "mosharofhossain2563@gmail.com",
+    "phone": "01634416564",
+    "role": "Student",
+    "city": "Dhaka, Bangladesh",
+    "company": "Daffodil Int. Academy",
+    "working_in": "JavaScript, Node.js, Laravel",
+    "github": "Mosharof-Hossain",
+    "facebook": "mosharof6"
   }
 ]
