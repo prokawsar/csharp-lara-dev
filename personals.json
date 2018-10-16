@@ -9,8 +9,7 @@
     "working_in": "JavaScript, Node.js, Laravel",
     "github": "prokawsar",
     "facebook": "fkawsar"
-   },
-  
+  },
   {
     "name": "Vritika Singla",
     "email": "vritikabnl242@gmail.com",
@@ -21,9 +20,8 @@
     "working_in": "JavaScript, Node.js",
     "github": "vritika1310",
     "facebook": "None"
-   },
-  
-    {
+  },
+  {
     "name": "Mark Grichanik",
     "email": "markgrichanik@gmail.com",
     "phone": "526451755",
@@ -33,6 +31,16 @@
     "working_in": "JavaScript, Angular",
     "github": "markgrichanik",
     "facebook": "None"
-   }
-
-  ]
+  }
+  {
+    "name": "Araan Branco",
+    "email": "araanbranco@protonmail.com",
+    "phone": "5511988218686",
+    "role": "CTO",
+    "city": "São Paulo",
+    "company": "Kludo",
+    "working_in": "JavaScript, NodeJS, AWS, GO",
+    "github": "araanbranco",
+    "facebook": "araanbranco"
+  }
+]
