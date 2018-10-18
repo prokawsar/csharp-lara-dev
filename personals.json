@@ -64,5 +64,16 @@
     "working_in": "JavaScript, Node.js, Laravel",
     "github": "Mosharof-Hossain",
     "facebook": "mosharof6"
+  },
+  {
+    "name": "Alfredo Spain",
+    "email": "tiny-titan@theanimegallery.com",
+    "phone": "",
+    "role": "Dev",
+    "city": "Barcelona, Spain",
+    "company": "N/A",
+    "working_in": "Laravel, Vue",
+    "github": "tiny-titan",
+    "facebook": ""
   }
 ]
