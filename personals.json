@@ -75,5 +75,16 @@
     "working_in": "Laravel, Vue",
     "github": "tiny-titan",
     "facebook": ""
+  },
+  {
+    "name": "Dimitri Acosta",
+    "email": "dimitri.acosta@orderos.mx",
+    "phone": "",
+    "role": "Dev",
+    "city": "Chihuahua, Mexico",
+    "company": "Order OS",
+    "working_in": "Laravel, DevOps",
+    "github": "dimitriacosta",
+    "facebook": ""
   }
 ]
