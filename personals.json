@@ -108,5 +108,16 @@
     "working_in": "JavaScript, Node.js, Laravel, Go",
     "github": "sharifclick",
     "facebook": "sharif.click"
+  },
+  {
+    "name": "Mohammad Saiful Islam",
+    "email": "msisaifulsaif@gmail.com",
+    "phone": "",
+    "role": "Dev",
+    "city": "Chittagong, Bangladesh",
+    "company": "KWS3 Media LTD",
+    "working_in": "PHP, JavaScript, Node.js, Laravel",
+    "github": "msisaifu",
+    "facebook": "msisaifulsaif@gmail.com"
   }
 ]
